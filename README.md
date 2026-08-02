@@ -1,3 +1,39 @@
+<!-- ICL_PROGRAM_METADATA_START -->
+# 士大夫撒
+
+## 共学简介
+
+是大方的撒
+
+## 共学内容 / 课程信息
+
+的撒发暗示法的撒
+
+## 基础信息
+
+- 语言：中文
+- 报名开放：是
+- 报名时间：2026-07-22 至 2026-07-27
+- 开始时间：2026-07-28
+- 结束时间：N/A
+- 共学周期：4 周
+- 每周请假次数：2
+- 标签：A2A
+
+## 面向人群
+
+的撒发暗示法的撒
+
+## 社群信息
+
+### 社群 1
+
+- 名称：的撒发暗示法的撒
+- 联系人账号：的撒发暗示法的撒
+- 链接：https://intensive-colearing-development-dev2-website-stage.lxdao.io/programs/new
+- 二维码：-
+<!-- ICL_PROGRAM_METADATA_END -->
+
 # 士大夫撒
 
 ## 共学简介
@@ -40,5 +76,7 @@
 <!-- START_COMMIT_TABLE -->
 | Name | 7.28 | 7.29 | 7.30 | 7.31 | 8.01 | 8.02 | 8.03 | 8.04 | 8.05 | 8.06 | 8.07 | 8.08 | 8.09 | 8.10 | 8.11 | 8.12 | 8.13 | 8.14 | 8.15 | 8.16 | 8.17 | 8.18 | 8.19 | 8.20 | 8.21 | 8.22 | 8.23 | 8.24 |
 | ------------- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
+| [brucexu-eth](https://github.com/IntensiveCoLearningDev/program-ms1y6yq4/blob/main/notes/95468177.md) | ⭕️ | ✅ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [muxin-web3](https://github.com/IntensiveCoLearningDev/program-ms1y6yq4/blob/main/notes/100744989.md) | ✅ | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| [Ser4nu11EN7](https://github.com/IntensiveCoLearningDev/program-ms1y6yq4/blob/main/notes/187297982.md) | ⭕️ | ⭕️ | ❌ |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 <!-- END_COMMIT_TABLE -->
-
